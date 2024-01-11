@@ -1,0 +1,14 @@
+Abstract class assignment:
+--------------------------
+ create a class with the name of Shape:
+(create all common properties and method)
+
+based on shape class create different classes like circle, Rectangle,Triangle,Cone.
+give different definition or formula to calculate the area of different shape.
+
+Overriding Concept:
+-----------------
+create an Employee class with related fields (id,name,designation,Salary) 
+
+create derved classes as Developer, Trainee, Manager, Admin
+assume company is giving bonus 5% for trainees, 20% for developer, 25% for manegers, 10% for Admin

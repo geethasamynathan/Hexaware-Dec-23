@@ -1,0 +1,37 @@
+My SQL Advanced Topics
+Storded Procedures
+Section 1. Basic MySQL Stored procedures
+•	Introduction to MySQL stored Procedures
+•	Creating new stored procedures 
+•	Removing stored procedures 
+•	Variables 
+•	Parameters 
+•	Altering stored procedure 
+•	Listing stored procedures 
+Section 2. Conditional Statements
+•	IF statement – show you how to use the IF THEN statement in stored procedures.
+•	CASE statement – introduce you to the CASE statements including simple CASE and searched CASE statements.
+Section 3. Loops
+•	LOOP – learn how to execute a list of statements repeatedly based on a condition.
+•	WHILE Loop – show you how to execute a loop as long as a condition is true.
+•	REPEAT Loop – show you how to execute a loop until a search condition is true.
+•	LEAVE statement – guide you on how to exit a loop immediately.
+Section 4. Error Handling
+•	Show Warnings 
+•	Show Errors 
+•	DECLARE … HANDLER 
+•	DECLARE … CONDITION 
+Section 5. Cursors
+•	Cursors 
+•	Section 6. Stored Functions
+•	Creating a stored function 
+•	Removing a stored function 
+•	Listing stored functions 
+•	
+
+Trigger
+Views 
+Json
+Indexes
+Functions
+

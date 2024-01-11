@@ -1,0 +1,18 @@
+EB Bill calculation
+--------------------
+
+unit consumed 1-100=free
+101-250 =8Rs/unit
+251-500 =15Rs.per unit
+
+calculate the bill aamount based on user input
+
+
+print the below pattern
+
+
+     *
+    * *
+   * * *
+  * * * *
+ * * * * *
